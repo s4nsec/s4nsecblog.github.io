@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Computer Science (expected 2026)
   * University of Central Florida, Orlando, FL
-  * Advisor: Prof. [Paul Gazzillo](https://www.cs.ucf.edu/person/paul-gazzillo/)
+  * Advisor: Prof. Dr. [Paul Gazzillo](https://www.cs.ucf.edu/person/paul-gazzillo/)
   * Member of [APPLeSEEd Lab](https://www.cs.ucf.edu/research/appleseed-lab/)
 
 * Bachelor of Engineering, Baku Higher Oil School, 2017 - 2022
@@ -23,17 +23,17 @@ Work Experience
 * Aug 2022 - Present: Graduate Research Assistant
   * University of Central Florida, Orlando, FL
   * Duties include: Leading a team in kernel configuration research, engineering and deploying automation scripts, initiating configuration-aware fuzzing for Linux kernel security, and authoring research papers.
-  * Supervisor: Prof. Paul Gazzillo
+  * Supervisor: Prof. Dr. Paul Gazzillo
 
 * Jun 2024 - Aug 2024: Summer Intern
   * Trail of Bits, New York City, NY
   * Duties included: Contributing to value generation logic for Medusa, utilizing goroutines for data extraction and corpus collection, and refactoring the tracing logic of Medusa.
-  * Supervisor: N/A
+  * Supervisor: Anish Naik
 
 * Jun 2023 - Aug 2023: Security Research Intern
   * Margin Research, New York City, NY
   * Duties included: Developing tools for open-source repositories, integrating custom security tools into the Reagent platform, and authoring a guide on smart contract vulnerabilities.
-  * Supervisor: N/A
+  * Supervisor: Ian Roos
 
 Skills
 ======

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Sanan Hasanov, a Ph.D. student in Computer Science at the University of Central Florida (UCF), where I am advised by Prof. [Paul Gazzillo](https://www.cs.ucf.edu/person/paul-gazzillo/). As a member of the [APPLeSEEd Lab](https://www.cs.ucf.edu/research/appleseed-lab/), my research focuses on systems security, kernel fuzzing, and vulnerability research. I am passionate about exploring new techniques to enhance software security by leveraging configuration-aware fuzzing and automated testing tools.
+I am Sanan Hasanov, a Ph.D. student in Computer Science at the University of Central Florida (UCF), where I am advised by Prof. Dr. [Paul Gazzillo](https://www.cs.ucf.edu/person/paul-gazzillo/). As a member of the [APPLeSEEd Lab](https://www.cs.ucf.edu/research/appleseed-lab/), my research focuses on systems security, kernel fuzzing, and vulnerability research. I am passionate about exploring new techniques to enhance software security by leveraging configuration-aware fuzzing and automated testing tools.
 
 Before joining UCF, I completed my Bachelor of Engineering at Baku Higher Oil School, where I developed a strong foundation in software development and security. Throughout my academic journey, I have been involved in several research projects, contributing to the advancement of kernel fuzzing techniques and the discovery of vulnerabilities in complex systems.
 
