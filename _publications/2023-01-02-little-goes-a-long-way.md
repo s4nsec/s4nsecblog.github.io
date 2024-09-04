@@ -2,7 +2,7 @@
 title: "A Little Goes a Long Way: Tuning Configuration Selection for Continuous Kernel Fuzzing"
 collection: publications
 category: conference
-permalink: /publication/2025-05-01-a-little-goes-a-long-way
+permalink: /publication/2023-01-02-little-goes-a-long-way
 excerpt: 'This paper discusses optimizing configuration selection for continuous kernel fuzzing to improve efficiency and effectiveness in vulnerability discovery.'
 date: 2025-05-01
 venue: '47th IEEE/ACM International Conference on Software Engineering (ICSE)'
