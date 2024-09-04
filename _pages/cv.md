@@ -11,54 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science (expected 2026)
+  * University of Central Florida, Orlando, FL
+  * Advisor: Prof. [Paul Gazzillo](https://www.cs.ucf.edu/person/paul-gazzillo/)
+  * Member of [APPLeSEEd Lab](https://www.cs.ucf.edu/research/appleseed-lab/)
 
-Work experience
+* Bachelor of Engineering, Baku Higher Oil School, 2017 - 2022
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2022 - Present: Graduate Research Assistant
+  * University of Central Florida, Orlando, FL
+  * Duties include: Leading a team in kernel configuration research, engineering and deploying automation scripts, initiating configuration-aware fuzzing for Linux kernel security, and authoring research papers.
+  * Supervisor: Prof. Paul Gazzillo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun 2024 - Aug 2024: Summer Intern
+  * Trail of Bits, New York City, NY
+  * Duties included: Contributing to value generation logic for Medusa, utilizing goroutines for data extraction and corpus collection, and refactoring the tracing logic of Medusa.
+  * Supervisor: N/A
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Jun 2023 - Aug 2023: Security Research Intern
+  * Margin Research, New York City, NY
+  * Duties included: Developing tools for open-source repositories, integrating custom security tools into the Reagent platform, and authoring a guide on smart contract vulnerabilities.
+  * Supervisor: N/A
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Syzkaller
+* QEMU
+* Bash
+* Python
+* Go
+* C
+* Vim
+* Git
+* Docker
+* AWS
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Can You Fuzz Me Now? Overcoming Configuration Blind Spots via Configuration-aware Kernel Fuzzing**. Preprint 2023.
+  Authors: Sanan Hasanov, Stefan Nagy, Paul Gazzillo.
+  [View Paper](https://drive.google.com/file/d/1KRtgWr6HkP1C8V0r4YawQyIGFTF5C70W/view?usp=sharing)
+
+* **A Little Goes a Long Way: Tuning Configuration Selection for Continuous Kernel Fuzzing**. 47th IEEE/ACM International Conference on Software Engineering (ICSE), 2025.
+  Authors: Sanan Hasanov, Stefan Nagy, Paul Gazzillo.
+  [View Paper](https://drive.google.com/file/d/1MuCOo7rLF7Ci4d-MaqqZHfOme8WjL9Mm/view?usp=sharing)
